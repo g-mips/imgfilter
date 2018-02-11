@@ -1,0 +1,8 @@
+# emacs tmp files
+*.*~
+
+# build
+build
+
+# resources
+resources
